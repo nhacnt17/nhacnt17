@@ -1,7 +1,5 @@
 
-
-  <img src="https://media.istockphoto.com/id/122204403/photo/binary-code.jpg?s=612x612&w=0&k=20&c=PKfESC0tGyCflS4erBmkoTi9OQoQm8Wr4fMTJGJdgmE=" alt="" style="width: 100%; height: 230px;">
-  <h1 align="center">
+<h1 align="center">
   Hi 👋, I'm Nhac
 </h1>
 <h3 align="center">I am a mobile app developer</h3>

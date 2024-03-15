@@ -5,7 +5,6 @@
   Hi 👋, I'm Nhac
 </h1>
 <h3 align="center">I am a mobile app developer</h3>
-⚡ Fun fact **I am funny**
 <img align="right" alt="Coding" width="450" height="400" src="https://media0.giphy.com/media/ZVik7pBtu9dNS/200.webp?cid=ecf05e47e8gmr07o6kj8xjqu4clt7zzqa0avk4iw6gcyuwv0&ep=v1_gifs_search&rid=200.webp&ct=g"
 <p>
 

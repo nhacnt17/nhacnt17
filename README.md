@@ -1,15 +1,16 @@
 <h1 align="center">Hi 👋, I'm Nhac</h1>
 <h3 align="center">I am a mobile app developer</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.pixabay.com/animation/2022/11/10/13/22/13-22-56-246_512.gif"
+<p>
 
+🌱 I’m currently learning **Flutter**
 
-- 🌱 I’m currently learning **Flutter**
+💬 Ask me about **Android java**
 
-- 💬 Ask me about **Android java**
+📫 How to reach me **nhac17122003@gmail.com**
 
-- 📫 How to reach me **nhac17122003@gmail.com**
-
-- ⚡ Fun fact **I am funny**
+⚡ Fun fact **I am funny**
+</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

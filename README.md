@@ -5,7 +5,8 @@
   Hi 👋, I'm Nhac
 </h1>
 <h3 align="center">I am a mobile app developer</h3>
-<img align="right" alt="Coding" width="400" height="250" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3k1bzBlemQ1bWdwbmVmODVoZ3Vsd3k5bXJuMXg5ZTNucnR2OG8wNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tOFKFDbeh9V7y/giphy.gif"
+⚡ Fun fact **I am funny**
+<img align="right" alt="Coding" width="400" height="250" src="https://media0.giphy.com/media/ZVik7pBtu9dNS/200.webp?cid=ecf05e47e8gmr07o6kj8xjqu4clt7zzqa0avk4iw6gcyuwv0&ep=v1_gifs_search&rid=200.webp&ct=g"
 <p>
 
 🌱 I’m currently learning **Flutter**

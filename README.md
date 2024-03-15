@@ -1,12 +1,12 @@
 
 
-  <img src="https://media.istockphoto.com/id/122204403/photo/binary-code.jpg?s=612x612&w=0&k=20&c=PKfESC0tGyCflS4erBmkoTi9OQoQm8Wr4fMTJGJdgmE=" alt="" style="width: 100%; height: 300px;">
+  <img src="https://media.istockphoto.com/id/122204403/photo/binary-code.jpg?s=612x612&w=0&k=20&c=PKfESC0tGyCflS4erBmkoTi9OQoQm8Wr4fMTJGJdgmE=" alt="" style="width: 100%; height: 250px;">
   <h1 align="center">
   Hi 👋, I'm Nhac
 </h1>
 <h3 align="center">I am a mobile app developer</h3>
 ⚡ Fun fact **I am funny**
-<img align="right" alt="Coding" width="400" height="250" src="https://media0.giphy.com/media/ZVik7pBtu9dNS/200.webp?cid=ecf05e47e8gmr07o6kj8xjqu4clt7zzqa0avk4iw6gcyuwv0&ep=v1_gifs_search&rid=200.webp&ct=g"
+<img align="right" alt="Coding" width="450" height="300" src="https://media0.giphy.com/media/ZVik7pBtu9dNS/200.webp?cid=ecf05e47e8gmr07o6kj8xjqu4clt7zzqa0avk4iw6gcyuwv0&ep=v1_gifs_search&rid=200.webp&ct=g"
 <p>
 
 🌱 I’m currently learning **Flutter**
